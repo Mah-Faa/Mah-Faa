@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mah-Faa
-- 🌱 I’m currently learning React
+- 🌱 I’m Front-end developer
 
 
 <!---
